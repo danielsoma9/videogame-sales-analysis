@@ -1,5 +1,5 @@
 # ANALISIS Y FORECASTING DE VENTAS VIDEOJUEGOS
-Proyecto de portafolio: limpieza de datos, análisis exploratorio y pronóstico de ventas sobre el histórico de ventas de videojuegos (~16,600 juegos, 1980-2016).
+Proyecto de portafolio: limpieza de datos, análisis EDA y pronóstico de ventas sobre el histórico de ventas de videojuegos (16,600 juegos, 1980-2016).
 
 ## QUE SE HIZO?
 - **Limpieza y acomodo de datos:** manejo de nulos, validación de consistencia, nuevas variables y transformación a formato largo.
